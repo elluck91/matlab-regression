@@ -1,0 +1,13 @@
+Regression scheduled for 1 files.
+Creating file 1 / 1.
+reading log file
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plotSensorData', 'C:\matlabCode\combined-regression\Vertical Context\memsPDR\tools\plots\plotSensorData.m', 148)" style="font-weight:bold">plotSensorData</a> (<a href="matlab: opentoline('C:\matlabCode\combined-regression\Vertical Context\memsPDR\tools\plots\plotSensorData.m',148,0)">line 148</a>)
+Data is missing Ground Truth.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('createVCFile', 'C:\matlabCode\combined-regression\Regression\AlgoVC\createVCFile.m', 18)" style="font-weight:bold">createVCFile</a> (<a href="matlab: opentoline('C:\matlabCode\combined-regression\Regression\AlgoVC\createVCFile.m',18,0)">line 18</a>)
+            data = plotSensorData('fname', input,'verbose', 0, 'topdir', topdir, 'plotting',
+            0, 'sensorType', sensorType, 'readOnlyMsgs', readOnlyMsgs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Regression_Framework', 'C:\matlabCode\combined-regression\Regression\Regression_Framework.m', 58)" style="font-weight:bold">Regression_Framework</a> (<a href="matlab: opentoline('C:\matlabCode\combined-regression\Regression\Regression_Framework.m',58,0)">line 58</a>)
+        createdFiles = createVCFile(settings, dataToCreate);
+} 

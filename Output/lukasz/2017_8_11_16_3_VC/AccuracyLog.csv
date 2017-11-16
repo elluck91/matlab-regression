@@ -1,0 +1,10 @@
+FileName, Timestamp, GT Floor Count, Floors Counted, GT Vertical Context, Sample Size, Unknown, On Floor, Up/Down, Stairs, Elevator, Escalator, Context Accuracy 
+Data/20150212_120023/ST_PDR_Log.txt, 11-Aug-2017 16:03:35, 0.00, 1.70, 2, 44, 0, 1, 43, 0, 0, 0, 97.73
+Data/20150212_120256/ST_PDR_Log.txt, 11-Aug-2017 16:03:58, 3.20, 0.00, 2, 0, 0, 0, 0, 0, 0, 0, 0.00
+Data/20151108_164553/ST_PDR_Log.txt, 11-Aug-2017 16:05:28, 0.00, 0.00, 4, 0, 0, 0, 0, 0, 0, 0, 0.00
+Data/20160517_085457/ST_PDR_Log.txt, 11-Aug-2017 16:06:34, 3.20, 0.00, 2, 0, 0, 0, 0, 0, 0, 0, 0.00
+Data/20160517_133314/ST_PDR_Log.txt, 11-Aug-2017 16:09:07, 0.00, 1.40, 2, 155, 11, 13, 7, 91, 33, 0, 25.16
+Data/20160517_164246/ST_PDR_Log.txt, 11-Aug-2017 16:10:04, 3.70, 3.60, 2, 35, 0, 2, 33, 0, 0, 0, 94.29
+Data/20160517_172856/ST_PDR_Log.txt, 11-Aug-2017 16:10:45, 0.00, 3.20, 2, 38, 0, 1, 37, 0, 0, 0, 97.37
+Data/20160517_175607/ST_PDR_Log.txt, 11-Aug-2017 16:11:27, 3.40, 0.00, 2, 0, 0, 0, 0, 0, 0, 0, 0.00
+Data/20170630_161141/ST_PDR_Log.txt, 11-Aug-2017 16:14:32, 2.00, 0.00, 2, 56, 0, 0, 56, 0, 0, 0, 100.00

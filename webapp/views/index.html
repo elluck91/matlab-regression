@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ST</title>
+  <script src="css/jquery-3.2.1.min.js"></script>
+  <link rel="stylesheet" href="css/bootstrap.min.css" type='text/css'>
+  <link href="css/styles.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  <script src="javascripts/index.js"></script>
+</head>
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <span class="glyphicon glyphicon-cloud-upload"></span>
+            <h2>STMicroelectronics</h2>
+            <h4>Regression Framework</h4>
+            <div class="form-group">
+              <label for="algorithm">Select algorithm:</label>
+              <select class="form-control" id="algorithm" name="algorithm">
+                <option>Activity Recognition</option>
+                <option>Carry Position</option>
+                <option>Step Detection</option>
+                <option>Vertical Context</option>
+              </select>
+            </div>
+            <div class="status" id="text-file-container">Status</div>
+              <button class="btn btn-lg upload-btn" type="button">Upload File</button>
+              <button class="btn btn-lg previous_tests" type="button" id="previous_tests" onclick="showTable()">Previous Tests</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <table id="data"  border="1" cellpadding="2">
+        <thead>
+          <tr>
+              <th>Date</th>
+              <th>Algorithm</th>
+              <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    </div>
+  </div>
+
+  <input id="upload-input" type="file" accept=".zip"></br>
+  <script src="javascripts/upload.js"></script>
+</body>
+</html>

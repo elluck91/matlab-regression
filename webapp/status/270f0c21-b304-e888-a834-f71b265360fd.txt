@@ -1,0 +1,9 @@
+Regression scheduled for 1 files.
+Regression started for 1 of 1 files
+Completed Regression Algorithm Module
+Completed Result Processing Module
+Completed Regression Analysis.
+Accuracy is : 95.72
+
+Elapsed time:  Hours: 0 Minutes: 1 Seconds: 47.766
+Finished

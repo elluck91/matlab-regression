@@ -1,0 +1,2 @@
+stairs 61 stairs down .. walk ,, elevator up and down, stairs up with differnt speed
+walking etc

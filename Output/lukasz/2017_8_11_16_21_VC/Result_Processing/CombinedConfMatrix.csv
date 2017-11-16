@@ -1,0 +1,7 @@
+Row,Unknown,OnFloor,UpDown,Stairs,Elevator,Escalator
+Unknown,0,0,0,0,0,0
+OnFloor,0,0,0,0,0,0
+UpDown,0,0,0,56,0,0
+Stairs,0,0,0,0,0,0
+Elevator,0,0,0,0,0,0
+Escalator,0,0,0,0,0,0

@@ -1,0 +1,18 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Regression scheduled for 5 files.
+Creating file 1 / 5.
+Does not existFile does not exist 
+Creating file 2 / 5.
+Does not existFile does not exist 
+Creating file 3 / 5.
+Does not existFile does not exist 
+Creating file 4 / 5.
+Does not existFile does not exist 
+Creating file 5 / 5.
+Does not existFile does not exist 
+Elapsed time:  Hours: 0 Minutes: 0 Seconds: 0.369
+Finished
+C:\matlabCode\combined-regression/Output/lukaszjuraszek/2017_8_10_10_55_AR/

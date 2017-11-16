@@ -1,0 +1,130 @@
+.btn:focus, .upload-btn:focus{
+  outline: 0 !important;
+}
+
+html,
+body {
+   height: 100%;
+   background-repeat: repeat;
+   background: linear-gradient(rgb(57, 169, 219), rgb(32, 59, 101), rgb(32, 59, 101), rgb(57, 169, 219));
+}
+
+
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.row {
+  margin-top: 60px;
+}
+
+.upload-btn {
+  color: #ffffff;
+  background-color: #F89406;
+  border: none;
+}
+
+.upload-btn:hover,
+.upload-btn:focus,
+.upload-btn:active,
+.upload-btn.active {
+  color: #ffffff;
+  background-color: #FA8900;
+  border: none;
+}
+
+#previous_tests {
+  color: #ffffff;
+  background-color: #990000;
+  border: none;
+}
+#previous_tests:hover,
+#stats-btn:focus,
+#previous_tests:active,
+#previous_tests.active {
+  color: #ffffff;
+  background-color: #7e0000;
+  border: none;
+}
+
+h4 {
+  padding-bottom: 30px;
+  color: #B8BDC1;
+}
+
+.glyphicon {
+  font-size: 5em;
+  color: #9CA3A9;
+}
+
+h2 {
+  margin-top: 15px;
+  color: #68757E;
+}
+
+.panel {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#upload-input {
+  display: none;
+}
+
+#status {
+  width: 50%;
+  font-size: 5em;
+  color: #9CA3A9;
+}
+
+@media (min-width: 768px) {
+  .main-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 50%;
+  }
+}
+
+#data {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#data td, #data th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#data tr:nth-child(even) {
+   background-color: rgb(32, 59, 101);
+   color: white;
+}
+
+#data tr:nth-child(odd){
+   background-color: rgb(57, 169, 219);
+}
+
+#data tr:hover {
+   background-color: #ddd;
+   color: #333;
+}
+
+#data th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: rgb(32, 59, 101);
+    color: white;
+}
+
+.status {
+    max-height: 300px;
+    overflow: auto;
+    padding: 0;
+}

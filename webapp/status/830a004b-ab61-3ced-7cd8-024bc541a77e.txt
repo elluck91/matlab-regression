@@ -1,0 +1,263 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Regression scheduled for 85 files.
+Creating file 1 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 2 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 3 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 4 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 5 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 6 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 7 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 8 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 9 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 10 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 11 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 12 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 13 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 14 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 15 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 16 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 17 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 18 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 19 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 20 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 21 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 22 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 23 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 24 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 25 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 26 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 27 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 28 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 29 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 30 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 31 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 32 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 33 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 34 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 35 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 36 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 37 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 38 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 39 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 40 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 41 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 42 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 43 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 44 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 45 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 46 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 47 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 48 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 49 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 50 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 51 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 52 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 53 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 54 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 55 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 56 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 57 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 58 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 59 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 60 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 61 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 62 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 63 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 64 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 65 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 66 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 67 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 68 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 69 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 70 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 71 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 72 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 73 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 74 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 75 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 76 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 77 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 78 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 79 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 80 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 81 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 82 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 83 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 84 / 85.
+reading log file
+Data is missing Ground Truth. 
+Creating file 85 / 85.
+reading log file
+Data is missing Ground Truth. 
+Elapsed time:  Hours: 0 Minutes: 14 Seconds: 39.146
+Finished
+C:\matlabCode\combined-regression/Output/lukaszjuraszek/2017_8_9_15_42_VC/

@@ -1,0 +1,10 @@
+Regression scheduled for 1 files.
+Regression started for 1 of 1 files
+Completed Regression Algorithm Module
+Completed Result Processing Module
+Completed Regression Analysis.
+Accuracy is : 95.72
+
+Elapsed time:  Hours: 0 Minutes: 0 Seconds: 12.274
+Finished
+C:\matlabCode\combined-regression/Output/lukaszjuraszek/2017_8_9_14_23_AR/

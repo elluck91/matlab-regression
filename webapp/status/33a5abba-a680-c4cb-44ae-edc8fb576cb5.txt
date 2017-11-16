@@ -1,0 +1,49 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Regression scheduled for 4 files.
+Creating file 1 / 4.
+reading log file
+Creating file 2 / 4.
+reading log file
+Creating file 3 / 4.
+reading log file
+Creating file 4 / 4.
+reading log file
+Regression started for 1 of 4 files
+GT shifted by 0.00 seconds 
+GT shifted by 2.01 seconds 
+Accuracy is: 83.33% 
+Floots expected: 3.20 
+Floors counted: 3.40 
+Regression started for 2 of 4 files
+GT shifted by 0.00 seconds 
+GT shifted by 3.02 seconds 
+GT shifted by 2.02 seconds 
+GT shifted by 3.02 seconds 
+GT shifted by 0.00 seconds 
+GT shifted by 2.01 seconds 
+GT shifted by 3.02 seconds 
+GT shifted by 3.02 seconds 
+GT shifted by 0.00 seconds 
+GT shifted by 0.00 seconds 
+GT shifted by 0.00 seconds 
+GT shifted by 3.02 seconds 
+GT shifted by 0.00 seconds 
+Accuracy is: 40.88% 
+Floots expected: 0.00 
+Floors counted: 0.00 
+Regression started for 3 of 4 files
+GT shifted by 3.02 seconds 
+GT shifted by 2.01 seconds 
+Accuracy is: 93.75% 
+Floots expected: 3.70 
+Floors counted: 3.10 
+Regression started for 4 of 4 files
+Accuracy is: 0.00% 
+Floots expected: 0.00 
+Floors counted: 0.00 
+Elapsed time:  Hours: 0 Minutes: 3 Seconds: 23.424
+Finished
+C:\matlabCode\combined-regression/Output/lukaszjuraszek/2017_8_9_17_20_VC/

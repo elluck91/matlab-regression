@@ -1,0 +1,2 @@
+stairs 15 stairs down
+walking,driving etc

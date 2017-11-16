@@ -1,0 +1,14 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Regression scheduled for 1 files.
+Regression started for 1 of 1 files
+Completed Regression Algorithm Module
+Completed Result Processing Module
+Completed Regression Analysis.
+Accuracy is : 95.72
+
+Elapsed time:  Hours: 0 Minutes: 0 Seconds: 16.021
+Finished
+C:\matlabCode\combined-regression/Output/lukaszjuraszek/2017_8_10_11_42_AR/
