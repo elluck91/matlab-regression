@@ -17,7 +17,7 @@ var sprintf = require('util').format;
 
 var BASE = 'dc=st,dc=com';
 var FILTER_FMT = '(&(uid=%s))';
-var URL = 'ldap://ldap-read.sgp.st.com:389';
+var URL = 'ldap://server:389';
 
 
 var myLDAPBind = function(user, pass, callback) {
